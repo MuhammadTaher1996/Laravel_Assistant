@@ -1,0 +1,13 @@
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.vbprojResolveAssemblyReference.cache
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.Dialog1.resources
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.Main.resources
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.Resources.resources
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.vbproj.GenerateResource.Cache
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.vbproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\bin\Debug\laravel_helper.exe.config
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\bin\Debug\laravel_helper.exe
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\bin\Debug\laravel_helper.pdb
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\bin\Debug\laravel_helper.xml
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.exe
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.xml
+C:\Users\muham\Documents\Visual Studio 2017\Projects\laravel_helper\laravel_helper\obj\Debug\laravel_helper.pdb
